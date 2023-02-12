@@ -8,4 +8,5 @@ fun main() {
     val summ = rew + reww
 println(summ)
     println("Мы что то изменили")
+    
 }
